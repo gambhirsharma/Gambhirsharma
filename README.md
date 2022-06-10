@@ -23,27 +23,54 @@
 
 # Technologies ⚙
 ## languages ✍
-<i><img width="10%" src="https://user-images.githubusercontent.com/69895353/152653149-6f2d862d-5c40-4e77-add2-52b16abbf2d0.png" alt="Html"/></i>
-<i><img width="10%" src="https://user-images.githubusercontent.com/69895353/152653354-534334d9-e78f-45a2-84c9-69dc7590cbf5.png" alt="CSS"/></i>
-<i><img width="10%" src="https://user-images.githubusercontent.com/69895353/152653389-93822266-cb59-45ef-b895-80377328fdf1.png" alt="JS"/></i>
-<i><img width="10%" src="https://user-images.githubusercontent.com/69895353/152653421-aaed7fe6-3862-4821-b765-96e275a5b472.png" alt="C++"/></i>
-<i><img width="10%" src="https://user-images.githubusercontent.com/69895353/152653443-b743231a-2632-4dbb-8ee9-4af8b9607770.png" alt="Python"/></i>
+<ul>
+  <li><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /></li>
+   <li><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /></li>
+   <li><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></li>
+   <li><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></li>
+   <li><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /></li>
+   <li><img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /></li>
+   <li><img src="https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black" /></li>
+   <li><img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /></li>
+</ul>
+
+## Libraries/Framework
+<ul>
+  <li><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></li>
+    <li><img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /></li>
+    <li><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /></li>
+    <li><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" /></li>
+    <li><img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" /></li>
+    <li><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></li>
+   <li><img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" /></li>
+  <li><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /></li>
+  <li><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /></li>
+  <li><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /></li>
+</ul>
 
 
-## DevOps ⚒
-<i><img width="10%" src="https://user-images.githubusercontent.com/69895353/152653485-326fe8cc-2686-4c6e-af13-c258fdf74a75.png" alt="VScode"/></i>
-<i><img width="10%" src="https://user-images.githubusercontent.com/69895353/152653569-0d1b1710-ee3c-4c15-a28a-023f110f4254.png" alt="Git"/></i>
-<i><img width="10%" src="https://user-images.githubusercontent.com/69895353/152653597-b348d913-b194-43ef-8635-f9125ee228b0.png" alt="Firebase"/></i>
-<i><img width="10%" src="https://user-images.githubusercontent.com/69895353/152653605-d1debd48-c0fc-46ea-8ff0-f745c5ed8e23.png" alt="Docker"/></i>
-<i><img width="10%" src="https://user-images.githubusercontent.com/69895353/152653824-6e5f49ce-8eb1-4388-b299-10c20be2bdff.png" alt="Figma"/></i>
-<i><img width="10%" src="https://user-images.githubusercontent.com/69895353/152653836-9788727b-7ab2-4eb0-baa2-80d1308188e5.png" alt="CodePen"/></i>
+## Dev Tools ⚒
+<ul>
+  <li><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /></li>
+  <li><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" /></li>
+  <li><img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" /></li>
+  <li><img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /></li>
+   <li><img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white" /></li>
+  <li><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" /></li>
+  <li><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></li>
+  <li><img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" /></li>
+  </ul>
 
 
 ## Currently learning
-<i><img width="10%" src="https://user-images.githubusercontent.com/69895353/152653966-993e6a1b-3cd0-44c1-a265-5c18aafa97cc.jpg" alt="node"/></i>
-<i><img width="10%" src="https://user-images.githubusercontent.com/69895353/152653962-615e33f4-35e5-403c-bc0a-1f2199c7068a.png" alt="react"/></i>
-<i><img width="10%" src="https://user-images.githubusercontent.com/69895353/152653968-ef1053c5-2044-4f07-9bdd-d5b1bfb09d1b.png" alt="npm"/></i>
-<i><img width="10%" src="https://user-images.githubusercontent.com/69895353/152653972-85174dbd-6e31-4833-a6f4-be5bb7d42d67.png" alt="npm"/></i>
+<ul>
+ <li><img src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white" /></li>
+  <i><img src="Solidity 	https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" /></i>
+  <i><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /></i>
+  <i><img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" /></i>
+  <i><img src=" 	https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white" /></i>
+  
+</ul>
 
 
 # Stats📈
