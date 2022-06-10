@@ -4,7 +4,7 @@
 <table>
 <tr>
   <td valign="center">
-    👩‍💻 I am a 17 years old Web-Developer from India 🏡.<br><br>
+    👩‍💻 I am a 18 years old Web-Developer from India 🏡.<br><br>
     🎓 I am currently pursuing my Class 11.<br><br>
     🌱 I am currently learning Express.js and also interested in NFT.<br><br>
     🎯 My Goal is to Contribute to as many open source project as possible.<br><br>
@@ -18,8 +18,8 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gambhirsharma&theme=react-dark)
 
 # Connect with me 👋
-<a href="https://twitter.com/gambhir_sharma/" target="_blank"><img width="10%"  src="https://user-images.githubusercontent.com/69895353/152652213-d9a1f37e-1b51-4cab-8af2-14f01750923d.png"/></a>
-<a href="https://instagram.com/_gambhir_sharma_/" target="_blank"><img width="10%"  src="https://user-images.githubusercontent.com/69895353/152652217-193a46a6-4a41-44f7-b225-05f1fcc2f91c.png"/></a>
+<a href="https://twitter.com/gambhir_sharma/" target="_blank"><img width="7%"  src="https://user-images.githubusercontent.com/69895353/152652213-d9a1f37e-1b51-4cab-8af2-14f01750923d.png"/></a>
+<a href="https://instagram.com/_gambhir_sharma_/" target="_blank"><img width="7%"  src="https://user-images.githubusercontent.com/69895353/152652217-193a46a6-4a41-44f7-b225-05f1fcc2f91c.png"/></a>
 
 # Technologies ⚙ ## languages ✍
 <img
