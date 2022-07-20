@@ -5,7 +5,7 @@
 <tr>
   <td valign="center">
     👩‍💻 I am a 18 years old Web-Developer from India 🏡.<br><br>
-    🎓 I am currently pursuing my Class 11.<br><br>
+    🎓 I am currently pursuing my Class 12.<br><br>
     🌱 I am currently learning Express.js and also interested in NFT.<br><br>
     🎯 My Goal is to Contribute to as many open source project as possible.<br><br>
     ✨ I love to create useful program that make life more easy.<br><br>
