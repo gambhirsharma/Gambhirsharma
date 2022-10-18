@@ -1,7 +1,8 @@
 
 [![@gambhirsharma's Holopin board](https://holopin.io/api/user/board?user=gambhirsharma)](https://holopin.io/@gambhirsharma)
 
-# Hi, I'm Gambhir Sharma <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="10px">
+# <p align="center">Hi, I'm Gambhir Sharma <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></p>
+
 
 # About me.
 <table>
