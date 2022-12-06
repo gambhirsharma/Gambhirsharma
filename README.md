@@ -23,7 +23,7 @@
 
 
 
-# Technologies ⚙ 
+<!-- # Technologies ⚙  -->
 ## Lang ✍
 
 <p align="center">
