@@ -19,8 +19,8 @@
 </tr>
 </table>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=gambhirsharma&theme=react-dark)
 
+![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gambhirsharma&theme=react-dark)
 
 
 <!-- # Technologies ⚙  -->
