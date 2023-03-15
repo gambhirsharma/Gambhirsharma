@@ -20,11 +20,11 @@
 </table>
 
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gambhirsharma&theme=react-dark)
+![Gambhir's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gambhirsharma&theme=react-dark)
 
 
 <!-- # Technologies ⚙  -->
-## Lang ✍
+# Languages ✍
 
 <p align="center">
 <!-- 
@@ -143,17 +143,18 @@
 # Connect with me: 
 
 <p align="center">
-<a href="https://twitter.com/gambhir_sharma/" target="_blank"/> 
+<a href="https://twitter.com/gambhir_sharma/" target="_blank"> 
   <img width="5%"  src="https://user-images.githubusercontent.com/69895353/152652213-d9a1f37e-1b51-4cab-8af2-14f01750923d.png"/>
-
-  <a href="https://instagram.com/_gambhir_sharma_/" target="_blank"/>
+</a>
+  <a href="https://instagram.com/_gambhir_sharma_/" target="_blank">
     <img width="5%"  src="https://user-images.githubusercontent.com/69895353/152652217-193a46a6-4a41-44f7-b225-05f1fcc2f91c.png"/>
-  
-   <a href="https://www.linkedin.com/in/gambhir-sharma-3460b91b6" target="_blank"/>
+  </a>
+   <a href="https://www.linkedin.com/in/gambhir-sharma-3460b91b6" target="_blank">
       <img width="5%"  src="https://user-images.githubusercontent.com/69895353/184474204-208b95d6-9c0c-43eb-be58-a5f7df659a21.png"/>
-
-   <a href="https://codepen.io/gambhirsharma" target="_blank"/>
+</a>
+   <a href="https://codepen.io/gambhirsharma" target="_blank">
         <img width="5%"  src="https://user-images.githubusercontent.com/69895353/184474287-c92906a6-a2e2-4b3a-a6d9-484d03a17bd0.png"/>
+        </a>
 </p>
 
 
