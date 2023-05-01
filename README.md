@@ -133,7 +133,7 @@
 # Stats📈
 <p align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gambhirsharma&show_icons=true&theme=highcontrast&locale=en&layout=compact&hide_border=true" alt="#gambhirsharma" /> 
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gambhirsharma&show_icons=true&theme=highcontrast&locale=en&layout=compact&hide_border=true" alt="#gambhirsharma" /> 
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gambhirsharma&show_icons=true&theme=highcontrast&locale=en&hide_border=true" alt="#gambhirsharma" />
 
