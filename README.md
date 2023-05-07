@@ -1,7 +1,19 @@
 
 [![@gambhirsharma's Holopin board](https://holopin.io/api/user/board?user=gambhirsharma)](https://holopin.io/@gambhirsharma)
 
+
+
+
+
+
 # <p align="center">Hi, I'm Gambhir Sharma <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></p>
+
+
+
+
+
+
+
 
 
 # About me
@@ -20,7 +32,26 @@
 </table>
 
 
+
+
+
+
+
+
+
+
 ![Gambhir's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gambhirsharma&theme=react-dark)
+
+
+
+
+
+
+
+
+
+
+
 
 
 <!-- # Technologies ⚙  -->
@@ -43,8 +74,8 @@
   <img width="6%" src="https://user-images.githubusercontent.com/69895353/196742116-7680fbca-0fd4-4321-9813-2a727ab8040a.svg" alt="Python" /> 
   <img width="6%" src="https://user-images.githubusercontent.com/69895353/196742029-0bd4bbb8-7a0a-4321-9965-ba41d7f4b9e0.svg" alt="Cpp"/> 
   <img width="6%" src="https://user-images.githubusercontent.com/69895353/205691949-208b5a18-c60b-4bb3-bfd2-1e2d49232976.png" alt="Rust"/>  
-  <img width="6%" src="https://user-images.githubusercontent.com/69895353/196742045-41a89b7b-a57f-45dc-8b54-e411f0de85b6.svg" alt="Golang" /> 
-  <img width="6%" src="https://user-images.githubusercontent.com/69895353/196742132-3c6cf100-4a1a-4ba5-8f8b-db01aed35a65.svg" alt="Rlang" /> 
+<!--   <img width="6%" src="https://user-images.githubusercontent.com/69895353/196742045-41a89b7b-a57f-45dc-8b54-e411f0de85b6.svg" alt="Golang" /> 
+  <img width="6%" src="https://user-images.githubusercontent.com/69895353/196742132-3c6cf100-4a1a-4ba5-8f8b-db01aed35a65.svg" alt="Rlang" />  -->
 </p>
 
 
@@ -129,6 +160,13 @@
 />
 
  -->
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 
 # Stats📈
 <p align="center">
@@ -139,6 +177,14 @@
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gambhirsharma&theme=highcontrast&hide_border=true" alt="#gambhirsharma" />
 </p>
+
+
+
+
+
+
+
+
 
 # Let's Connect: 
 
