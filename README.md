@@ -11,7 +11,7 @@
 
 
 
-# About me
+# About
 <table>
 <tr>
   <td valign="center">
