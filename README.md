@@ -50,7 +50,7 @@
 
 
 <!-- # Technologies ⚙  -->
-# Stack ✍
+# Stack 
 
 
 <p align='center'>
