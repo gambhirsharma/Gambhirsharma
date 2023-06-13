@@ -172,7 +172,7 @@
  
  
 
-# Stats📈
+# Stats
 <p align="center">
 
 <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gambhirsharma&show_icons=true&theme=highcontrast&locale=en&layout=compact&hide_border=true" alt="#gambhirsharma" /> 
