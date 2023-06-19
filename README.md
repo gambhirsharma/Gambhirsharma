@@ -29,9 +29,6 @@
  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,redis,tailwind,threejs,graphql,nodejs,mongodb,django,firebase,jest" />
 </p>
 
-
-
-
 <!-- <p align="center">
 <!-- 
  <img width="6%" src="https://user-images.githubusercontent.com/69895353/196742081-ec87bef8-122b-4c3f-b022-896303a053e4.svg" alt="HTML" />
@@ -50,95 +47,6 @@
   <img width="6%"  src="https://user-images.githubusercontent.com/69895353/196742085-9740d385-3bb7-4caa-a767-41375615a483.svg" alt="J-Query" />  -->
 <!--   <img width="6%" src="https://user-images.githubusercontent.com/69895353/196742045-41a89b7b-a57f-45dc-8b54-e411f0de85b6.svg" alt="Golang" /> 
   <img width="6%" src="https://user-images.githubusercontent.com/69895353/196742132-3c6cf100-4a1a-4ba5-8f8b-db01aed35a65.svg" alt="Rlang" />  -->
-
-
-
-
-
-
-
-<!-- ## Libraries/Framework
-<img
-  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-/>
-<img
-  src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"
-/>
-
-## Dev Tools ⚒
-<img
-  src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"
-/>
-
-## Currently learning
-<img
-  src="https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white"
-/>
-<img
-  src="Solidity 	https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"
-/>
-<img
-  src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
-/>
-<img
-  src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"
-/>
-<img
-  src=" 	https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"
-/>
-
- -->
- 
- 
- 
- 
- 
- 
  
 
 # Stats
