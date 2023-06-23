@@ -29,8 +29,6 @@
  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,redis,tailwind,threejs,graphql,nodejs,mongodb,django,firebase,jest" />
 </p>
 
- 
-
 # Stats
 <p align="center">
 
