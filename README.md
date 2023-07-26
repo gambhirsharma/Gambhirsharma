@@ -16,7 +16,9 @@
   </td>
 </tr>
 </table>
+<!-- 
 ![Gambhir's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gambhirsharma&theme=react-dark)
+--> 
 
 <!-- # Technologies ⚙  -->
 # Stack 
@@ -30,8 +32,9 @@
 
 # Stats
 <p align="center">
-
+<!--
 <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gambhirsharma&show_icons=true&theme=highcontrast&locale=en&layout=compact&hide_border=true" alt="#gambhirsharma" /> 
+-->
 
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gambhirsharma&show_icons=true&theme=highcontrast&locale=en&hide_border=true" alt="#gambhirsharma" />
 
