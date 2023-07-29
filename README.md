@@ -19,7 +19,6 @@
 <!-- 
 ![Gambhir's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=gambhirsharma&theme=react-dark)
 --> 
-
 <!-- # Technologies ⚙  -->
 # Stack 
 
