@@ -1,4 +1,5 @@
-[![@gambhirsharma's Holopin board](https://holopin.io/api/user/board?user=gambhirsharma)](https://holopin.io/@gambhirsharma)
+![image](https://github.com/gambhirsharma/Gambhirsharma/assets/69895353/fef60375-2d06-4a2a-bec2-a2ef150fb495)
+
 
 # <p align="center">Hi, I'm Gambhir Sharma <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></p>
 
