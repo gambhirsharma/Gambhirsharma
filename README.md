@@ -2,7 +2,6 @@
 
 # <p align="left">Hi, I'm Gambhir Sharma <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></p>
 
-### About
 I am a TypeScript developer & my pronouns are `any/undefined`
 
 ### Repository
