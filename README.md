@@ -5,8 +5,10 @@
 # <p align="center">Hi, I'm Gambhir Sharma <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></p>
 
 # About
-- Use Neovim for Web-Dev
+- Web-dev with Neovim
 - Vibe Coding
+- Currently enrolled in [CyberChallenge CTF](https://cyberchallenge.it/)
+- neovim [config](https://github.com/gambhirsharma/nvim)
 <!--
 <table>
 <tr>
