@@ -8,7 +8,7 @@
 
 
 <!-- # <p align="left">Gambhir Sharma <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></p> -->
-# Gambhir Sharma 
+# Gambhir Sharma · [gambhir.dev](https://gambhir.dev)
 
 - Web-dev with Neovim
 - Vibe Coding
