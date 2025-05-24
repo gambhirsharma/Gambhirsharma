@@ -1,10 +1,15 @@
 
 <!-- ![image](https://github.com/gambhirsharma/Gambhirsharma/assets/69895353/fef60375-2d06-4a2a-bec2-a2ef150fb495) -->
 
+![Eagle from Figma](https://github.com/user-attachments/assets/0fe7897e-c0f8-4927-8160-ba7160ee477e)
 
-# <p align="center">Hi, I'm Gambhir Sharma <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></p>
+<!-- ![Light 01](https://github.com/user-attachments/assets/b60d4b75-03f4-43e1-99b8-5ad932b195e7) -->
 
-# About
+
+
+<!-- # <p align="left">Gambhir Sharma <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></p> -->
+# Gambhir Sharma 
+
 - Web-dev with Neovim
 - Vibe Coding
 - Currently enrolled in [CyberChallenge CTF](https://cyberchallenge.it/)
