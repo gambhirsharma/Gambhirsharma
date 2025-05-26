@@ -40,8 +40,10 @@
 </details>
 
 
+<details>
+  
 
-# Stack 
+<summary>Stack</summary>
 
 <p align='center'>
  <img src="https://skillicons.dev/icons?i=js,typescript,sass,pug,py,cpp,rust" />
@@ -49,6 +51,8 @@
 <p align='center'>
  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,redis,tailwind,threejs,graphql,nodejs,mongodb,django,firebase,jest" />
 </p>
+
+</details>
 
 # Stats
 <p align="center">
