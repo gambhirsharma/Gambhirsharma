@@ -14,6 +14,10 @@
 - Vibe Coding
 - Currently enrolled in [CyberChallenge CTF](https://cyberchallenge.it/)
 - neovim [config](https://github.com/gambhirsharma/nvim)
+
+#### contributions 
+- [codex #294](https://github.com/openai/codex/pull/294)
+- [Async API #1685](https://github.com/asyncapi/cli/issues/1685)
 <!--
 <table>
 <tr>
