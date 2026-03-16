@@ -1,7 +1,12 @@
 
 <!-- ![image](https://github.com/gambhirsharma/Gambhirsharma/assets/69895353/fef60375-2d06-4a2a-bec2-a2ef150fb495) -->
 
-![Eagle from Figma](https://github.com/user-attachments/assets/0fe7897e-c0f8-4927-8160-ba7160ee477e)
+<!-- ![Eagle from Figma](https://github.com/user-attachments/assets/0fe7897e-c0f8-4927-8160-ba7160ee477e) -->
+
+<!-- <img width="1584" height="396" alt="Gambhir Figma (1)" src="https://github.com/user-attachments/assets/ffe4bc0c-50cc-4f00-a0b3-ebd168697883" /> -->
+<img width="1584" height="396" alt="Gambhir Figma" src="https://github.com/user-attachments/assets/9eeff767-9685-4348-ac56-728442f4c29c" />
+<!-- <img width="1584" height="396" alt="Gambhir Linkedin" src="https://github.com/user-attachments/assets/0068ab3e-e9b7-49a3-8192-fe54d128956b" /> -->
+
 
 <!-- ![Light 01](https://github.com/user-attachments/assets/b60d4b75-03f4-43e1-99b8-5ad932b195e7) -->
 
