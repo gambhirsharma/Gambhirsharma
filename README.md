@@ -19,11 +19,12 @@
 - Vibe Coding
 - Currently enrolled in [CyberChallenge CTF](https://cyberchallenge.it/)
 - neovim [config](https://github.com/gambhirsharma/nvim)
-
+ <!--
 #### contributions 
 - [OpenAI codex #294](https://github.com/openai/codex/pull/294)
 - [Async API #1685](https://github.com/asyncapi/cli/issues/1685)
 - [CGI LINO #1](https://github.com/CGI-FR/homebrew-lino/pull/1)
+-->
 <!--
 <table>
 <tr>
