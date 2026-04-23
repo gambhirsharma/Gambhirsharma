@@ -15,8 +15,8 @@
 <!-- # <p align="left">Gambhir Sharma <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></p> -->
 # Gambhir Sharma · [gambhir.dev](https://gambhir.dev)
 
+- DevOps engineer
 - Web-dev with Neovim
-- Vibe Coding
 - Currently enrolled in [CyberChallenge CTF](https://cyberchallenge.it/)
 - neovim [config](https://github.com/gambhirsharma/nvim)
  <!--
