@@ -61,7 +61,7 @@
 <details>
   
 
-<summary>Stack</summary>
+ <summary>Stack</summary>
 
 <p align='center'>
  <img src="https://skillicons.dev/icons?i=js,typescript,sass,pug,py,cpp,rust" />
@@ -72,11 +72,13 @@
 
 </details>
 
+
 # Stats
 <p align="center">
-<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gambhirsharma&show_icons=true&theme=highcontrast&locale=en&layout=compact&hide_border=true" alt="#gambhirsharma" /> 
-
+<!--
+ <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gambhirsharma&show_icons=true&theme=highcontrast&locale=en&layout=compact&hide_border=true" alt="#gambhirsharma" /> --> 
+<!--
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gambhirsharma&show_icons=true&theme=highcontrast&locale=en&hide_border=true" alt="#gambhirsharma" />
-
+--> 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gambhirsharma&theme=highcontrast&hide_border=true" alt="#gambhirsharma" />
 </p>
