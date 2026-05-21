@@ -24,8 +24,8 @@
 ## Project
 - [pushup.gambhir.dev](https://github.com/gambhirsharma/pushup.gambhir.dev) Tracking push-up progress.
 - [OnFly-Image-Optimization](https://github.com/gambhirsharma/OnFly-Image-Optimization) OnFly Image Optimization.
+- [cgd.nvim](https://github.com/gambhirsharma/cgd.nvim) AI text editing for Neovim.
 <!-- - [chat.gambhir.dev](https://chat.gambhir.dev) Self-hosted LLM chat interface. --> 
-- [cgd.nvim](https://github.com/gambhirsharma/cgd.nvim) AI text editing for Neovim. 
  <!--
 #### contributions 
 - [OpenAI codex #294](https://github.com/openai/codex/pull/294)
