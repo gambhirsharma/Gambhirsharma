@@ -31,6 +31,14 @@
 - [cgd.nvim](https://github.com/gambhirsharma/cgd.nvim) — AI text editing for Neovim.
 - [pushup.gambhir.dev](https://github.com/gambhirsharma/pushup.gambhir.dev) — tracking push-up progress.
 
+## Organizations
+<p align="left">
+  <a href="https://github.com/hackclub"><img src="https://avatars.githubusercontent.com/u/5633654?s=64&v=4" width="40" title="Hack Club"/></a>
+  <a href="https://github.com/EddieHubCommunity"><img src="https://avatars.githubusercontent.com/u/66388388?s=64&v=4" width="40" title="EddieHub Community"/></a>
+  <a href="https://github.com/AskDevs"><img src="https://avatars.githubusercontent.com/u/118043608?s=64&v=4" width="40" title="AskDevs"/></a>
+</p>
+
+
 ## Achievements
 <!-- Fun, and shows real activity (2x Pull Shark, Pair Extraordinaire, Starstruck) -->
 <p align="left">
@@ -91,7 +99,7 @@
 </details>
 
 
-# Stats
+## Stats
 <p align="center">
 <!--
  <img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=gambhirsharma&show_icons=true&theme=highcontrast&locale=en&layout=compact&hide_border=true" alt="#gambhirsharma" /> --> 
