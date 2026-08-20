@@ -15,16 +15,22 @@
 <!-- # <p align="left">Gambhir Sharma <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="30px"></p> -->
 # Gambhir Sharma · [gambhir.dev](https://gambhir.dev)
 
-- DevOps engineer
-- Web-dev with Neovim
-- Currently enrolled in [CyberChallenge CTF](https://cyberchallenge.it/)
-- neovim [config](https://github.com/gambhirsharma/nvim)
+- DevOps Engineer, Earth Observation 🌍 @ [CGI](https://www.cgi.com/) · Rome 🍕
+- Building geospatial + Kubernetes tooling
+- Neovim daily driver — [config](https://github.com/gambhirsharma/nvim)
+- CTF @ [CyberChallenge](https://cyberchallenge.it/)
 
 
 ## Project
-- [pushup.gambhir.dev](https://github.com/gambhirsharma/pushup.gambhir.dev) Tracking push-up progress.
-- [OnFly-Image-Optimization](https://github.com/gambhirsharma/OnFly-Image-Optimization) OnFly Image Optimization.
-- [cgd.nvim](https://github.com/gambhirsharma/cgd.nvim) AI text editing for Neovim.
+- [circuitsnap](https://github.com/gambhirsharma/circuitsnap) — Snap a circuit sketch into a running Falstad CircuitJS1 simulation. MCP server + CLI. 
+- [SFD](https://github.com/gambhirsharma/SFD) — Shadow Fleet Detection.
+- [ISAC-k8s](https://github.com/gambhirsharma/ISAC-k8s) — Distributed 6G ISAC sensing fleet on KubeEdge.
+- [nvim](https://github.com/gambhirsharma/nvim) — my actual daily Neovim config ("Only speed counts").
+- [OnFly-Image-Optimization](https://github.com/gambhirsharma/OnFly-Image-Optimization) — image optimization (Next.js, k8s, Helm, Supabase).
+- [gambhir.dev](https://github.com/gambhirsharma/gambhir.dev) — this site, built with Astro.
+- [cgd.nvim](https://github.com/gambhirsharma/cgd.nvim) — AI text editing for Neovim.
+- [pushup.gambhir.dev](https://github.com/gambhirsharma/pushup.gambhir.dev) — tracking push-up progress.
+
 <!-- - [chat.gambhir.dev](https://chat.gambhir.dev) Self-hosted LLM chat interface. --> 
  <!--
 #### contributions 
