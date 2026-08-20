@@ -81,11 +81,12 @@
  <summary>Stack</summary>
 
 <p align='center'>
- <img src="https://skillicons.dev/icons?i=js,typescript,sass,pug,py,cpp,rust" />
+ <img src="https://skillicons.dev/icons?i=js,typescript,sass,pug,py,cpp,rust,go,lua" />
 </p>
 <p align='center'>
- <img src="https://skillicons.dev/icons?i=react,nextjs,redux,redis,tailwind,threejs,graphql,nodejs,mongodb,django,firebase,jest" />
+ <img src="https://skillicons.dev/icons?i=kubernetes,docker,terraform,postgres,react,nextjs,redux,redis,tailwind,nodejs,mongodb,graphql" />
 </p>
+
 
 </details>
 
