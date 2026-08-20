@@ -80,5 +80,6 @@
 <!--
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gambhirsharma&show_icons=true&theme=highcontrast&locale=en&hide_border=true" alt="#gambhirsharma" />
 --> 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=gambhirsharma&theme=highcontrast&hide_border=true" alt="#gambhirsharma" />
+
+<img width="48%" src="https://streak-stats.demolab.com?user=gambhirsharma&theme=highcontrast" alt="#gambhirsharma" />
 </p>
