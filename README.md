@@ -31,6 +31,17 @@
 - [cgd.nvim](https://github.com/gambhirsharma/cgd.nvim) — AI text editing for Neovim.
 - [pushup.gambhir.dev](https://github.com/gambhirsharma/pushup.gambhir.dev) — tracking push-up progress.
 
+## Achievements
+<!-- Fun, and shows real activity (2x Pull Shark, Pair Extraordinaire, Starstruck) -->
+<p align="left">
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="56" title="Pull Shark x2"/>
+  <img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="56" title="Pair Extraordinaire"/>
+  <img src="https://github.githubassets.com/assets/starstruck-default-b6610abad518.png" width="56" title="Starstruck"/>
+  <img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="56" title="YOLO"/>
+  <img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="56" title="Quickdraw"/>
+</p>
+
+
 <!-- - [chat.gambhir.dev](https://chat.gambhir.dev) Self-hosted LLM chat interface. --> 
  <!--
 #### contributions 
