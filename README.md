@@ -22,6 +22,7 @@
 
 
 ## Project
+- [Lynq](https://github.com/gambhirsharma/Lynq) - A 112-satellite polar 5G constellation and the cloud-to-edge stack that runs it. Built for OQ Technology at NEOSPACE Europe 2026. 
 - [circuitsnap](https://github.com/gambhirsharma/circuitsnap) — Snap a circuit sketch into a running Falstad CircuitJS1 simulation. MCP server + CLI. 
 - [SFD](https://github.com/gambhirsharma/SFD) — Shadow Fleet Detection.
 - [ISAC-k8s](https://github.com/gambhirsharma/ISAC-k8s) — Distributed 6G ISAC sensing fleet on KubeEdge.
